@@ -2,13 +2,12 @@
 # W26-MP2-CMPUT291
 
 # GROUP INFORMATION:
-You must list the names and CCIDs of all group members, as well as the names of anyone you have collaborated with (as much as it is allowed within the course policy), or a line saying that you did not collaborate with anyone else. 
 ---
-Maheen Abbasi, maabbas1
+Maheen Abbasi
 
-Manaal Naeem, manaal3
+Manaal Naeem
 
-Harnoor Tihar, tihar
+Harnoor Tihar
 
 ---
 # INSTRUCTIONS:
